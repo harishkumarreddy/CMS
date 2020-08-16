@@ -6,8 +6,8 @@
 2. use the commnds shown on the github screen
 
 ## Forethor steps
- . before starting work you have to pull the code
- . one you are done with the changes or before leving office you hav eto push changes.
+ #. before starting work you have to pull the code
+ # one you are done with the changes or before leving office you hav eto push changes.
 
 
 ## Comments:
