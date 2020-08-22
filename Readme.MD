@@ -27,5 +27,5 @@ we have to keep some comments in the code file for future understanding perps.
 
 ---
 # Topics
-1. [DataTyps, Variables and decissionmaking](Topic-1.md)
+1. [DataTyps, Variables and Operators](Topic-1.md)
 
