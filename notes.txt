@@ -1,0 +1,47 @@
+js engens:
+IE, Edge : CHAKRA
+firefox: SpiderMonkey
+Chrome: V8
+Safari: Webkit
+Opara: V8-opensource/ chromieam
+
+
+Notepad/texteditop
+notepad++
+
+sublime
+-> VS Code
+Atom
+
+eclips
+aptana
+
+Visual studio
+IntelliJ
+Netbeans
+webstrom
+phpstrome
+pycharm
+
+Page? page a final part or screen of the web site or application
+Document? is Marckuplanguage og the page
+
+DOM? "Document Object Module" Module of the browser whe we can plug and execute the document.
+
+
+------------------------------------------------------------
+Case Secitive: A!=a
+Ristricted Registerd Keywords:
+    diclurations
+    lang spevific modules
+    standers keywords whiche are used in language
+   ex: console
+
+End each line/instruction with ";"
+save file with .js extantion.
+Naming covention should be relavent:
+ex: student: Not suggested
+    obj_student: if student object
+    studentName/ student_name
+    studentFirstName
+
