@@ -3,7 +3,7 @@ var myName = "Harishkumar";
 var age = 33;
 var height = 5.9;
 var email = "harishlimarreddy.cherla@gmail.com";
-var DoB = new Date('sep-02-1987');
+var DoB = new Date('jun-02-1986');
 
 // Reading values and concatinaing 
 console.log("Name: " + myName);
