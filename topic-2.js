@@ -73,3 +73,81 @@ if( r == 0){
 }else{
     console.log(myNumber + " is odd number.")
 }
+
+
+/**
+    ->1 leep year,
+    ->2 Split into blocks
+    n = 2 => 1+1,
+    n=3 => 1+1+1,
+    n= 55 => 25+25+5;
+ */
+
+ var month =( Math.floor(Math.random() * 6));
+ var month_string;
+ switch (month) {
+    case 1:
+        month_string = "Jan";
+        break;
+
+    case 2:
+        month_string = "Feb";
+        break;
+    
+    case 3:
+        month_string = "Mar";
+        break;
+
+    case 4:
+        month_string = "Apr";
+        break;
+    case 5:
+        month_string = "May";
+        break;
+
+    case 6:
+        month_string = "Jun";
+        break;
+ 
+     default:
+        month_string = "Invalied Month";
+        break;
+ }
+ console.log(month + " -> " +month_string);
+
+ var quarter_of_month;
+ switch (month) {
+    case 1:
+    case 2:
+    case 3:
+        quarter_of_month = "Q1";
+        break;
+
+    case 4:
+    case 5:
+    case 6:
+        quarter_of_month = "Q2";
+        break;
+ 
+     default:
+        quarter_of_month = "Month is not in the range of 1 to 6";
+        break;
+ }
+ console.log(month, quarter_of_month);
+
+// this is not recomended to use..
+//  switch (month) {
+//     case month<=6:
+//         quarter_of_month = "1st half";
+//            break;
+
+//        case month>6:
+//        quarter_of_month = "2nd half";
+//            break;
+
+//      default:
+//         quarter_of_month = "Month is not in the range of 1 to 6";
+//         break;
+//  }
+
+// console.log(month + " -> " +quarter_of_month);
