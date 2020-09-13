@@ -26,3 +26,9 @@ Stands for JavaScript Object Notation. it is a combination of array and objects
 1. object defines between {}.
 1. array contains only values.
 1. object contains values along with keys.
+
+
+## tasks:
+1. print alphabit numbers of given tstring
+1. Reverse the given string or array
+1. find the given string is palendrom or not
