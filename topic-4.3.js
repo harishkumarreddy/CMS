@@ -34,4 +34,4 @@ var str_replace = name.replace(/ /g, "@");
 console.log("replace ' ' with '-': ", str_replace);
 
 // reverse
-console.log("rreverce: ", name.reverse())
+//console.log("rreverce: ", name.reverse())
