@@ -104,3 +104,16 @@ console.log(students[1].name);
 
 var name = "HarishKumar";
 console.log(name[5]);
+
+
+// generate role No
+
+students.forEach(
+    function(student, index) {
+        students[index].rno = index + 1;
+
+        console.log(student.name, index + 1)
+    }
+);
+
+console.log(students);
